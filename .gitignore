@@ -13,4 +13,4 @@ data/raw/
 
 # Ignorado o arquivo com a estrutura do projeto (temp)
 estrutura_projeto.txt
-anp_arquivos.txt
+data/processed/precos_combustiveis_unificado.csv
