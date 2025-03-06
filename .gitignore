@@ -1,6 +1,16 @@
+# Ignorar ambiente virtual
 .venv/
-__pycache__/
-*.pyc
-*.pyo
+
+# Ignorar arquivos do sistema
 .DS_Store
+Thumbs.db
+
+# Ignorar configurações locais
+*.env
+
+# Ignorar dados brutos (opcional, se forem muito grandes)
 data/raw/
+
+# Ignorado o arquivo com a estrutura do projeto (temp)
+estrutura_projeto.txt
+anp_arquivos.txt
